@@ -1,0 +1,36 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CPU
+INFO: [VRFC 10-2458] undeclared symbol alucon_ab, assumed default net type wire [D:/Fiver/RISCV/CPU.v:432]
+INFO: [VRFC 10-2458] undeclared symbol alucon_ac, assumed default net type wire [D:/Fiver/RISCV/CPU.v:565]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/EX_MEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_MEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/ID_EX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_EX
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/IF_ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/MEM_WB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM_WB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/alucontrol.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alucontrol
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/dmem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dmem
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/forwarding_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module forwarding_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/imem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module imem
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/immgen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module immgen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/instr_parser.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instr_parser
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/regfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/staller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module staller
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Fiver/RISCV/cpu_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_tb

@@ -1,0 +1,23 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Fiver/RISCV/CPU.v,1695321085,verilog,,D:/Fiver/RISCV/EX_MEM.v,,CPU,,,,,,,,
+D:/Fiver/RISCV/EX_MEM.v,1619855618,verilog,,D:/Fiver/RISCV/ID_EX.v,,EX_MEM,,,,,,,,
+D:/Fiver/RISCV/ID_EX.v,1619855618,verilog,,D:/Fiver/RISCV/IF_ID.v,,ID_EX,,,,,,,,
+D:/Fiver/RISCV/IF_ID.v,1695134621,verilog,,D:/Fiver/RISCV/MEM_WB.v,,IF_ID,,,,,,,,
+D:/Fiver/RISCV/MEM_WB.v,1619855618,verilog,,D:/Fiver/RISCV/PC.v,,MEM_WB,,,,,,,,
+D:/Fiver/RISCV/PC.v,1619855618,verilog,,D:/Fiver/RISCV/alu.v,,PC,,,,,,,,
+D:/Fiver/RISCV/RISCV_7Stage/RISCV_7Stage.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/Fiver/RISCV/alu.v,1619855618,verilog,,D:/Fiver/RISCV/alucontrol.v,,alu,,,,,,,,
+D:/Fiver/RISCV/alucontrol.v,1619855618,verilog,,D:/Fiver/RISCV/control.v,,alucontrol,,,,,,,,
+D:/Fiver/RISCV/control.v,1619855618,verilog,,D:/Fiver/RISCV/dmem.v,,control,,,,,,,,
+D:/Fiver/RISCV/cpu_tb.v,1695320601,verilog,,,,cpu_tb,,,,,,,,
+D:/Fiver/RISCV/dmem.v,1695406287,verilog,,D:/Fiver/RISCV/forwarding_unit.v,,dmem,,,,,,,,
+D:/Fiver/RISCV/forwarding_unit.v,1619855618,verilog,,D:/Fiver/RISCV/imem.v,,forwarding_unit,,,,,,,,
+D:/Fiver/RISCV/imem.v,1695406070,verilog,,D:/Fiver/RISCV/immgen.v,,imem,,,,,,,,
+D:/Fiver/RISCV/immgen.v,1619855618,verilog,,D:/Fiver/RISCV/instr_parser.v,,immgen,,,,,,,,
+D:/Fiver/RISCV/inst_sprdr.v,1695067191,verilog,,D:/Fiver/RISCV/instr_parser.v,,inst_sprdr,,,,,,,,
+D:/Fiver/RISCV/instr_parser.v,1695054449,verilog,,D:/Fiver/RISCV/regfile.v,,instr_parser,,,,,,,,
+D:/Fiver/RISCV/regfile.v,1619855618,verilog,,D:/Fiver/RISCV/staller.v,,regfile,,,,,,,,
+D:/Fiver/RISCV/staller.v,1619855618,verilog,,D:/Fiver/RISCV/cpu_tb.v,,staller,,,,,,,,
